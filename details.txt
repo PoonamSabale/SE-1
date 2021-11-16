@@ -1,0 +1,14 @@
+
+Name :-Mr. Shrinand
+Gender:- Male
+DOB:- 21-04-2001
+Age:- 20
+Mobile:- 8976543212
+Address:- Akola
+
+Name :-Ms. Poonam Karvanje
+Gender:- Female
+DOB:- 13-06-2001
+Age:- 21
+Mobile:- 7893456123
+Address:- Sangli
